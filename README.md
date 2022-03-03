@@ -1,3 +1,3 @@
 # Gerenciamento_SOII
-Aplicativo que demonstra na prática o Gerenciamento de memória.
+Aplicativo móvel desenvolvido na plataforma Android Studio, que demonstra na prática o Gerenciamento de memória.
 Desenvolvido para fins acadêmicos.
